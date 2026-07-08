@@ -30,7 +30,7 @@ Skills Demonstrated
 
 - CompTIA Security+
 
--Currently Learning
+ Currently Learning
 
 - SOC Operations
 - Threat Hunting
