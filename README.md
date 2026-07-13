@@ -15,7 +15,7 @@ Portfolio Structure
 - 📝 Writeups
 - 📷 Screenshots
 
-Skills Demonstrated
+## Skills Demonstrated
 
 - Security Monitoring
 - Log Analysis
@@ -26,19 +26,18 @@ Skills Demonstrated
 - Incident Response
 - MITRE ATT&CK Mapping
 
- Certifications
+## Certifications
 
 - CompTIA Security+
 
- Currently Learning
-
+## Currently Learning
 - SOC Operations
 - Threat Hunting
 - Detection Engineering
 - Incident Response
 - Malware Analysis
 
-Current Status
+## Current Status
 
 🚧 Portfolio currently under active development.
 
