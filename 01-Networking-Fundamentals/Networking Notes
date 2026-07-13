@@ -1,1 +1,29 @@
+## Networking Notes
 
+### 1. What is an IP Address?
+
+An IP (Internet Protocol) address is a unique numerical address assigned to a device on a network. It allows devices to communicate by sending and receiving data.
+
+---
+
+### 2. What is DNS?
+
+DNS (Domain Name System) translates human-readable domain names, such as google.com, into IP addresses that computers use to communicate.
+
+---
+
+### 3. What is HTTP?
+
+HTTP (Hypertext Transfer Protocol) is the protocol used by web browsers and web servers to exchange web pages and other resources.
+
+---
+
+### 4. What is HTTPS?
+
+HTTPS is the secure version of HTTP. It encrypts communication between a browser and a web server using TLS, helping protect data from interception.
+
+---
+
+### 5. What is the difference between TCP and UDP?
+
+TCP is a reliable protocol that ensures data is delivered correctly and in order. UDP is faster but does not guarantee delivery, making it suitable for streaming, gaming, and DNS queries.
